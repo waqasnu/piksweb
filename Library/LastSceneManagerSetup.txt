@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Pics Quiz Maker 1.2.0/Scenes/Quiz.unity
+  isLoaded: 1
+  isActive: 1

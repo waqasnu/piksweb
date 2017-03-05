@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 7f06727e03f24244080ef9535cf59d76
+timeCreated: 1432141007
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Background
+    21300002: BoxAnswer
+    21300004: CircleLevel
+    21300006: Coin
+    21300008: ButtonLetter
+    21300010: ButtonOrange
+    21300012: ObscureBackground
+    21300014: GUI_7
+    21300016: GUI_8
+    21300018: ButtonGreen
+    21300020: GUI_10
+    21300022: GUI_11
+    21300024: GUI_12
+    21300026: GUI_13
+    21300028: GUI_14
+    21300030: Window
+    21300032: ButtonLanguage
+    21300034: IconMagic
+    21300036: IconMenu
+    21300038: ButtonAndContainer
+    21300040: soundsIcon
+    21300042: musicIcon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 621
+        height: 1024
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxAnswer
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 905
+        width: 512
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CircleLevel
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 604
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 801
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ButtonLetter
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 661
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ButtonOrange
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 561
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ObscureBackground
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ButtonGreen
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 458
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 202
+        width: 280
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ButtonLanguage
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 85
+        width: 280
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IconMagic
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 486
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IconMenu
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 483
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ButtonAndContainer
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 195
+        width: 79
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soundsIcon
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 11
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: musicIcon
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 85
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
