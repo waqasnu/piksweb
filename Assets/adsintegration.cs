@@ -7,7 +7,7 @@ public class adsintegration : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		InvokeRepeating("LaunchProjectile", 10,8);
+		InvokeRepeating("LaunchProjectile", 9.0f,60.0f);
 	}
 
 	// Update is called once per frame
